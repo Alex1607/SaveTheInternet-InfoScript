@@ -1,5 +1,4 @@
-<script type="text/javascript">
-	function start() {
+function start() {
 
     //<![CDATA[
     if (document.createStyleSheet) {
@@ -33,4 +32,3 @@
 
 }
 window.onload = start;
-</script>
